@@ -9,3 +9,5 @@ La gestion des machines implique généralement trois actions principales : ajou
  #### Ajouter une machine :L'ajout d'une machine consiste à créer une nouvelle entrée pour une machine dans un système de gestion des machines. Les informations clés à ajouter pour une machine peuvent inclure un identifiant unique (ID), une référence (ref) , une marque, un prix, et la salle à laquelle elle est associée
 #### Modifier une machine : La modification d'une machine consiste à mettre à jour les informations existantes pour une machine spécifique.
 #### Supprimer une machine :La suppression d'une machine consiste à retirer définitivement une machine du système de gestion. 
+![Vidéo de Démonstration](https://github.com/nhabiba/Rmi_GMachine/issues/2#issue-1956047160)
+
